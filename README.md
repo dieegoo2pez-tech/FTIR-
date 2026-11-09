@@ -1,0 +1,2 @@
+# FTIR-
+Interferogram to Spectrum
